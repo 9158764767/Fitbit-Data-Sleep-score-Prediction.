@@ -39,6 +39,10 @@ To run this project, ensure you have the following dependencies installed:
 Clone the repository, navigate to the project directory, and run the script:
 ```bash
 git clone https://github.com/9158764767/Fitbit-Data-Sleep-score-Prediction..git
+cd Fitbit-Data-Sleep-score-Prediction
+pip install -r requirements.txt
+python Final_BDSS.ipynb
+
 
 
 ## Acknowledgements
