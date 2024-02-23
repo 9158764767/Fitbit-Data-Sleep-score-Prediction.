@@ -37,9 +37,10 @@ To run this project, ensure you have the following dependencies installed:
 
 Clone the repository, navigate to the project directory, and run the script:
 ```bash
-git clone [repository_url]
+git clone https://github.com/9158764767/Fitbit-Data-Sleep-score-Prediction..git
 cd [project_directory]
-Acknowledgements
+
+## Acknowledgements
 This project was developed as part of Bio Medical Decision Making at University of Verona.
 Thanks to all the participants who provided their data for analysis.
 Special thanks to Professor Dr. Pietro Sala for guidance and support.
