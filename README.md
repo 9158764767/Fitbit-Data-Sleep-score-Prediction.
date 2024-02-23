@@ -8,6 +8,7 @@ This project involves developing a machine learning model to predict the sleep s
 ## Dataset
 The dataset includes Fitbit data from multiple participants, encompassing heart rate, calories burned, exercise, sleep, steps, and distance. The data is loaded from JSON files and processed to extract relevant features.
 
+Data set is available at : https://datasets.simula.no/pmdata/
 ## Features
 - `efficiency`: Calculated from the sleep data as the ratio of minutes asleep to time in bed, multiplied by 100.
 - Other features like active minutes, heart rate, and exercise data are also considered in the broader analysis.
@@ -38,9 +39,11 @@ To run this project, ensure you have the following dependencies installed:
 Clone the repository, navigate to the project directory, and run the script:
 ```bash
 git clone https://github.com/9158764767/Fitbit-Data-Sleep-score-Prediction..git
-cd [project_directory]
+
 
 ## Acknowledgements
 This project was developed as part of Bio Medical Decision Making at University of Verona.
 Thanks to all the participants who provided their data for analysis.
 Special thanks to Professor Dr. Pietro Sala for guidance and support.
+Contact
+For any queries regarding this project, please contact Abhishek Hirve at abhishek.hirve@yahoo.com
